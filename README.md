@@ -11,7 +11,7 @@ Backend Testing - To conduct a basic backend test before generating predictions 
 
 Outcomes - The project serves as a foundation for creating a (somewhat) profitable trading system though live trading based solely on this code is not recommended. 
 
-The author has reported around 20% returns on the backend testing and approximentaly 10-15% on live trading with a modifed version fo this code not freely shown on git.\
+The program has reported around 20% returns on the backend testing and approximentaly 10-15% on live trading with a modifed version fo this code not freely shown on git.\
 
 Personal Significance:
 first major python machine learning project. 
