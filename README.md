@@ -18,3 +18,9 @@ first major python machine learning project.
 
 Disclaimer:
 This is an educational project, Trade at your own risk.
+
+
+Influenced by: 
+https://github.com/robertmartin8/MachineLearningStocks
+
+
