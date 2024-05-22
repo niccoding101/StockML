@@ -13,8 +13,7 @@ Outcomes - The project serves as a foundation for creating a (somewhat) profitab
 
 The program has reported around 13.2% returns on the backend testing and approximentaly 5-7.6% on live trading with a modifed version fo this code not freely shown on git.\
 
-Personal Significance:
-first major python machine learning project. 
+This is my first major python machine learning project. 
 
 Disclaimer:
 This is an educational project, Trade at your own risk.
